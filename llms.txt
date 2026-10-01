@@ -1,0 +1,15 @@
+# Muse 使用指南
+
+> 面向中文读者的 Muse 注册、年龄核验与邀请码兑换说明。该页面为独立指南，并非 Muse 官方页面。
+
+- 注册入口：https://muse.ai/join
+- 注册步骤：邮箱验证码、按页面要求完成年龄核验、阅读权限说明、登录使用。
+- 邀请码：7F6MSA
+- 兑换步骤：加入后 48 小时内，在 Muse App 的设置（Settings）中查找邀请码兑换入口并提交。
+- 奖励说明：宣传奖励为双方各得 10 亿 Token、宣传价值约 200 美元；实际额度、资格和规则以 App 显示为准。
+- 所有注册、验证与奖励信息可能变化，应以 Muse 官网和 App 最新说明为准。
+
+## 页面
+
+- [Muse 注册教程与邀请码兑换指南](https://wantosure.github.io/muse/)
+- [GitHub 源文件与图片](https://github.com/wantosure/muse)
